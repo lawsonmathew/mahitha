@@ -3030,33 +3030,33 @@ textarea.form-control-lg {
 }
 
 .btn-primary {
-  color: #fff;
-  background-color: #ee0979;
-  border-color: #ee0979;
+  color: black;
+  background-color: white;
+  border-color: white;
 }
 .btn-primary:hover {
-  color: #fff;
-  background-color: #ca0867;
-  border-color: #be0761;
+  color: white;
+  background-color: black;
+  border-color: black;
 }
 .btn-check:focus + .btn-primary, .btn-primary:focus {
-  color: #fff;
-  background-color: #ca0867;
-  border-color: #be0761;
-  box-shadow: 0 0 0 0.25rem rgba(241, 46, 141, 0.5);
+  color: black;
+  background-color: white;
+  border-color: white;
+  box-shadow: 0 0 0 0.25rem rgba(0, 0, 0, 0.5);
 }
 .btn-check:checked + .btn-primary, .btn-check:active + .btn-primary, .btn-primary:active, .btn-primary.active, .show > .btn-primary.dropdown-toggle {
-  color: #fff;
-  background-color: #be0761;
-  border-color: #b3075b;
+  color: black;
+  background-color: white;
+  border-color: white;
 }
 .btn-check:checked + .btn-primary:focus, .btn-check:active + .btn-primary:focus, .btn-primary:active:focus, .btn-primary.active:focus, .show > .btn-primary.dropdown-toggle:focus {
-  box-shadow: 0 0 0 0.25rem rgba(241, 46, 141, 0.5);
+  box-shadow: 0 0 0 0.25rem rgba(0, 0, 0, 0.5);
 }
 .btn-primary:disabled, .btn-primary.disabled {
-  color: #fff;
-  background-color: #ee0979;
-  border-color: #ee0979;
+  color: black;
+  background-color: white;
+  border-color: white;
 }
 
 .btn-secondary {
@@ -11322,7 +11322,7 @@ header.masthead {
   overflow: hidden;
   padding-top: calc(7rem + 72px);
   padding-bottom: 7rem;
-  background: linear-gradient(0deg, #ff6a00 0%, #ee0979 100%);
+  background: lightblue url('assets/img/colombia.jpeg');
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: scroll;
